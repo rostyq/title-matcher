@@ -1,3 +1,12 @@
+# /// script
+# dependencies = [
+#     "marimo>=0.25.2",
+#     "numpy==2.5.5",
+#     "polars==2.1.0",
+#     "rapidfuzz==3.14.6",
+#     "scikit-learn==1.9.1",
+# ]
+# ///
 import marimo
 
 __generated_with = "0.25.2"
